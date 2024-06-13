@@ -6,7 +6,7 @@ CoinEye币眼，监控Binance/huobi/gateio/coinbase/okx/ftx等各大数字货币
 * app：数据API（可以对接web和app的前端，开发自己的产品）
 
 # 功能演示
-![Weixin Image_20240613161336](https://github.com/hcaihao/CoinEye/assets/3926845/cdf2d9ed-5061-4a95-b14d-a9e83c8b4195)
+![Weixin Image_20240613161336](https://github.com/hcaihao/CoinEye/assets/3926845/70f8a998-c6d0-4585-8791-764b0ebd172a)
 
 
 
